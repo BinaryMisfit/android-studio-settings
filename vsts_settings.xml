@@ -4,29 +4,11 @@
       <array>
         <ServerContextState>
           <option name="type" value="VSO" />
-          <option name="uri" value="https://omni-channel@dev.azure.com/omni-channel/Android-Apps/_git/mobile-point-of-sale" />
-          <option name="serverUri" value="https://dev.azure.com/omni-channel" />
-          <option name="userId" value="b0b08686-86e0-6c9c-b457-71b0a98f1f8d" />
-          <option name="teamProjectCollectionReference" value="{&quot;id&quot;:&quot;e48d6c50-7a2e-4420-9fa7-485cb6df06ce&quot;,&quot;name&quot;:&quot;omni-channel&quot;,&quot;url&quot;:&quot;https://dev.azure.com/omni-channel/_apis/projectCollections/e48d6c50-7a2e-4420-9fa7-485cb6df06ce&quot;}" />
-          <option name="teamProjectReference" value="{&quot;abbreviation&quot;:null,&quot;description&quot;:&quot;All projects related to Android and developed in Android Studio&quot;,&quot;id&quot;:&quot;f84a8d81-746c-42bf-aa4f-5d29eca56606&quot;,&quot;name&quot;:&quot;Android-Apps&quot;,&quot;revision&quot;:31,&quot;state&quot;:&quot;NEW&quot;,&quot;url&quot;:&quot;https://dev.azure.com/omni-channel/_apis/projects/f84a8d81-746c-42bf-aa4f-5d29eca56606&quot;}" />
-          <option name="gitRepository" value="{&quot;defaultBranch&quot;:null,&quot;id&quot;:&quot;fdbad76b-0265-4964-b9a6-bfadded2ca0a&quot;,&quot;name&quot;:&quot;mobile-point-of-sale&quot;,&quot;remoteUrl&quot;:&quot;https://omni-channel@dev.azure.com/omni-channel/Android-Apps/_git/mobile-point-of-sale&quot;,&quot;url&quot;:&quot;https://dev.azure.com/omni-channel/_apis/git/repositories/fdbad76b-0265-4964-b9a6-bfadded2ca0a&quot;,&quot;project&quot;:{&quot;abbreviation&quot;:null,&quot;description&quot;:&quot;All projects related to Android and developed in Android Studio&quot;,&quot;id&quot;:&quot;f84a8d81-746c-42bf-aa4f-5d29eca56606&quot;,&quot;name&quot;:&quot;Android-Apps&quot;,&quot;revision&quot;:31,&quot;state&quot;:&quot;NEW&quot;,&quot;url&quot;:&quot;https://dev.azure.com/omni-channel/_apis/projects/f84a8d81-746c-42bf-aa4f-5d29eca56606&quot;},&quot;_links&quot;:null}" />
-        </ServerContextState>
-        <ServerContextState>
-          <option name="type" value="VSO" />
           <option name="uri" value="https://dev.azure.com/omni-channel" />
           <option name="serverUri" value="https://dev.azure.com/omni-channel" />
           <option name="userId" value="b0b08686-86e0-6c9c-b457-71b0a98f1f8d" />
           <option name="teamProjectCollectionReference" value="{&quot;id&quot;:null,&quot;name&quot;:null,&quot;url&quot;:null}" />
           <option name="teamProjectReference" value="{&quot;abbreviation&quot;:null,&quot;description&quot;:null,&quot;id&quot;:null,&quot;name&quot;:null,&quot;revision&quot;:0,&quot;state&quot;:null,&quot;url&quot;:null}" />
-        </ServerContextState>
-        <ServerContextState>
-          <option name="type" value="VSO" />
-          <option name="uri" value="https://omni-channel@dev.azure.com/omni-channel/Android-Apps/_git/mobile-library-publish-design" />
-          <option name="serverUri" value="https://dev.azure.com/omni-channel" />
-          <option name="userId" value="b0b08686-86e0-6c9c-b457-71b0a98f1f8d" />
-          <option name="teamProjectCollectionReference" value="{&quot;id&quot;:&quot;e48d6c50-7a2e-4420-9fa7-485cb6df06ce&quot;,&quot;name&quot;:&quot;omni-channel&quot;,&quot;url&quot;:&quot;https://dev.azure.com/omni-channel/_apis/projectCollections/e48d6c50-7a2e-4420-9fa7-485cb6df06ce&quot;}" />
-          <option name="teamProjectReference" value="{&quot;abbreviation&quot;:null,&quot;description&quot;:&quot;All projects related to Android and developed in Android Studio&quot;,&quot;id&quot;:&quot;f84a8d81-746c-42bf-aa4f-5d29eca56606&quot;,&quot;name&quot;:&quot;Android-Apps&quot;,&quot;revision&quot;:31,&quot;state&quot;:&quot;NEW&quot;,&quot;url&quot;:&quot;https://dev.azure.com/omni-channel/_apis/projects/f84a8d81-746c-42bf-aa4f-5d29eca56606&quot;}" />
-          <option name="gitRepository" value="{&quot;defaultBranch&quot;:null,&quot;id&quot;:&quot;263328bf-1555-428d-b3e9-f42f0e61586e&quot;,&quot;name&quot;:&quot;mobile-library-publish-design&quot;,&quot;remoteUrl&quot;:&quot;https://omni-channel@dev.azure.com/omni-channel/Android-Apps/_git/mobile-library-publish-design&quot;,&quot;url&quot;:&quot;https://dev.azure.com/omni-channel/_apis/git/repositories/263328bf-1555-428d-b3e9-f42f0e61586e&quot;,&quot;project&quot;:{&quot;abbreviation&quot;:null,&quot;description&quot;:&quot;All projects related to Android and developed in Android Studio&quot;,&quot;id&quot;:&quot;f84a8d81-746c-42bf-aa4f-5d29eca56606&quot;,&quot;name&quot;:&quot;Android-Apps&quot;,&quot;revision&quot;:31,&quot;state&quot;:&quot;NEW&quot;,&quot;url&quot;:&quot;https://dev.azure.com/omni-channel/_apis/projects/f84a8d81-746c-42bf-aa4f-5d29eca56606&quot;},&quot;_links&quot;:null}" />
         </ServerContextState>
       </array>
     </option>
