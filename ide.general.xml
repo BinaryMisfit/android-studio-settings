@@ -2,7 +2,7 @@
   <component name="GeneralSettings">
     <option name="confirmExit" value="false" />
     <option name="confirmOpenNewProject2" value="0" />
-    <option name="defaultProjectDirectory" value="/Users/Shared" />
+    <option name="defaultProjectDirectory" value="C:\Source\git" />
     <option name="processCloseConfirmation" value="TERMINATE" />
     <option name="reopenLastProject" value="false" />
     <option name="autoSaveFiles" value="false" />
