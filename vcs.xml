@@ -10,9 +10,17 @@
           <option name="url" value="https://omni-channel@dev.azure.com/omni-channel/Android-Apps/_git/mobile-app-count" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://omni-channel@dev.azure.com/omni-channel/Android-Apps/_git/mobile-app-bays" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://omni-channel@dev.azure.com/omni-channel/Android-Apps/_git/mobile-app-suite" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="C:\Source\git\in-store\android" />
+    <option name="cloneParentDir" value="/Users/Shared/Technology/Source/Instore" />
   </component>
   <component name="Vcs.Log.App.Settings">
     <option name="COLUMN_ID_ORDER">
