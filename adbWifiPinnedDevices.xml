@@ -1,5 +1,0 @@
-<application>
-  <component name="PinDeviceService">
-    <option name="pinnedDevices" value="[{&quot;id&quot;:&quot;192.168.82.249:5555&quot;,&quot;serialNumber&quot;:&quot;0123456789ABCDEF&quot;,&quot;name&quot;:&quot;thumbzup T67&quot;,&quot;address&quot;:&quot;192.168.82.249&quot;,&quot;port&quot;:5555,&quot;androidVersion&quot;:&quot;6.0&quot;,&quot;apiLevel&quot;:&quot;23&quot;}]" />
-  </component>
-</application>
